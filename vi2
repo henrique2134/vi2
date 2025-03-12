@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeira Pista</title>
+    <script>
+        window.location.href = "https://goo.gl/maps/Exemplo1"; // Substitua pelo link do Google Maps
+    </script>
+</head>
+<body>
+    <p>Se não for redirecionado, <a href="https://goo.gl/maps/Exemplo1">clique aqui</a>.</p>
+</body>
+</html>
